@@ -116,10 +116,10 @@ h5 {
   font-size: 36px;
 }
 
-/* .dark .projeto-item {
-  color:#FDE56B;
+.dark .projeto-item {
+  color: #333439;
   list-style-type: none;
   font-size: 24px;
   font-weight: 300;
   line-height: 48px;
-} */
+}
